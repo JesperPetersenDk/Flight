@@ -14,10 +14,6 @@ public class Main {
             lax3 = lax1.createBoth(lax2);
         }
         
-        if(lax3 != null)
-        {
-            System.out.println("Flights complete");
-        }
     }
     
 }
